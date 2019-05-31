@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Pjazz</string>
+    <string name="app_title">Pica į namus</string>
+
+    <string name="login_username_hint">Prisijungimo vardas</string>
+    <string name="login_password_hint">Slaptažodis</string>
+    <string name="login_register_name">Registracija</string>
+    <string name="app_register_bar">Užregistruokite naują vartotoją</string>
+    <string name="login_name">Prisijungimas</string>
+    <string name="login_invalid_credentials">Blogai įvestas prisijungimo vardas ir/arba slaptažodis</string>
+
+    <string name="search_new_entry">Užsakyti naują picą</string>
+
+    <string name="newentry_name">Pica: </string>
+    <string-array name="newentry_names">
+        <item>Italiano</item>
+        <item>Studentiška</item>
+        <item>Kaprizinga</item>
+        <item>Havajų</item>
+        <item>Kaimiška</item>
+        <item>Čempionų</item>
+    </string-array>
+    <string name="newentry_size">Dydis: </string>
+    <string name="newentry_size_big">Didelė45cm</string>
+    <string name="newentry_size_medium">Vidutinė32cm</string>
+    <string name="newentry_size_small">Maža25cm</string>
+    <string name="newentry_sauce">Padazas: </string>
+    <string name="newentry_sauce_hot">Aštrus</string>
+    <string name="newentry_sauce_picantic">Pikantiškas</string>
+    <string name="newentry_sauce_garlic">Česnakinis</string>
+    <string name="newentry_type">Gėrimas: </string>
+    <string name="newentry_type_pork">CocaCola</string>
+    <string name="newentry_type_chicken">Sprite</string>
+    <string name="newentry_type_beef">Pepsi</string>
+    <string name="newentry_price">Kaina: </string>
+    <string name="newentry_submit">Gaminti</string>
+    <string name="entryDatabaseInfo">Užsakymas atliekamas. Prašome palaukti</string>
+    <string name="entry_db_loading_msg">Atliekama paieška. Prašome palaukti.</string>
+
+    <string name="register_email">El. paštas</string>
+    <string name="submit_registration">Registruotis</string>
+    <string name="entryDatabaseInfoUser">Vartotojas registruojamas. Prašome palaukti</string>
+
+</resources>
